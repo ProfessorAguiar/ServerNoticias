@@ -1,0 +1,32 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Porsche Cars oferece serviço utilizando realidade mista da Microsoft e HoloLens 2",
+            "info": "Quando alguém compra um veículo de uma concessionária Porsche, pode ser mais do que apenas uma decisão de transporte – geralmente é a realização de uma ambição de longa data. “Como marca, dizemos que somos movidos por sonhos e acreditamos que o mesmo é verdade para nossos clientes”, diz Kjell Gruner, presidente e diretor executivo da Porsche Cars North America (PCNA). “Juntamente com nossos parceiros revendedores, nossa missão é tornar esses sonhos realidade.” ",
+            "img":"https://news.microsoft.com/wp-content/uploads/prod/sites/42/2023/05/porsche-960x513.jpg",
+            "author": "Microsoft"
+        },
+        {
+            "id": 2,
+            "title": "Microsoft anuncia acesso antecipado ao Copilot do Microsoft 365 e novo Índice de Tendências do Trabalho 2023",
+            "info": "Redmond, Washington, 9 de maio de 2023 – No início deste ano, a Microsoft apresentou o Microsoft 365 Copilot, que trará novos e poderosos recursos de Inteligência Artificial (IA) generativa para os aplicativos que milhões de pessoas usam todos os dias, como Microsoft Word, Excel, PowerPoint, Outlook, Microsoft Teams, entre outros. Nesta terça-feira, 9, a empresa anunciou que está expandindo o acesso à prévia do Microsoft 365 Copilot e introduzindo novos recursos às soluções. Também foram divulgados novos dados e insights do relatório Work Trend Index 2023: A IA vai resolver o trabalho? Os dados mostram que o ritmo de trabalho foi acelerado em uma velocidade maior do que os humanos conseguem acompanhar, e isso está impactando a inovação. A IA de última geração irá diminuir o volume de trabalho e aquelas organizações que se moverem para adotar essa tecnologia primeiro poderão romper com os padrões, aumentar a criatividade e melhorar a produtividade para todos. ",
+            "img":"https://news.microsoft.com/wp-content/uploads/prod/sites/42/2023/05/M365CO22_Yealink_006-960x640.jpg",
+            "author": "Microsoft"
+        },
+        {
+            "id": 3,
+            "title": "A Microsoft continua seus compromissos de sustentabilidade ousados",
+            "info": "São Paulo, 10 de maio de 2023 – A abordagem da Microsoft para enfrentar a crise climática começa com a sustentabilidade de seu próprio negócio. Hoje, a Microsoft está divulgando seu Relatório Anual de Sustentabilidade, que mostra que seus negócios cresceram 18% e as emissões totais diminuíram 0,5%. Os resultados mais positivos em 2022 são resultado de melhorias nas nossas operações, medição de dispositivos baseada em telemetria em tempo real, investimentos em energia renovável, compras de combustível de aviação sustentável (SAF) e aquisição de certificados de energia renovável (RECs) de forma desagregada.",
+            "img":"https://news.microsoft.com/wp-content/uploads/prod/sites/42/2023/05/MSC18_scenicsSouthAfrica_003-960x640.jpg",
+            "author": "Microsoft"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ]
+}
